@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-03-10T11:02:29Z" name="Default suite" finished-at="2021-03-10T11:03:09Z" duration-ms="39592">
+    <groups>
+    </groups>
+    <test started-at="2021-03-10T11:02:29Z" name="Default test" finished-at="2021-03-10T11:03:09Z" duration-ms="39592">
+      <class name="com.automation.test.randomTest">
+        <test-method is-config="true" signature="login()[pri:0, instance:com.automation.test.randomTest@7494f96a]" started-at="2021-03-10T11:02:29Z" name="login" finished-at="2021-03-10T11:02:33Z" duration-ms="3187" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="logintest()[pri:0, instance:com.automation.test.randomTest@7494f96a]" started-at="2021-03-10T11:02:33Z" name="logintest" finished-at="2021-03-10T11:02:35Z" duration-ms="2083" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintest -->
+        <test-method signature="homepagetest()[pri:0, instance:com.automation.test.randomTest@7494f96a]" started-at="2021-03-10T11:02:35Z" name="homepagetest" finished-at="2021-03-10T11:03:05Z" duration-ms="30429" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homepagetest -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:com.automation.test.randomTest@7494f96a]" started-at="2021-03-10T11:03:05Z" name="logout" finished-at="2021-03-10T11:03:08Z" duration-ms="3208" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="exit()[pri:0, instance:com.automation.test.randomTest@7494f96a]" started-at="2021-03-10T11:03:08Z" name="exit" finished-at="2021-03-10T11:03:09Z" duration-ms="662" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exit -->
+      </class> <!-- com.automation.test.randomTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
